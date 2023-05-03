@@ -1,0 +1,15 @@
+{
+    "name": "express-mysql",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Zaan",
+    "license": "MIT",
+    "scripts": {
+      "start": "nodemon src/index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "mysql2": "^3.2.4",
+      "nodemon": "^2.0.22"
+    }
+  }
